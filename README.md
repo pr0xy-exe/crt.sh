@@ -1,8 +1,8 @@
 # crt.sh
 scrapes crt.sh for subdomains.
 
-Python3
-required modueles lxml & requests.
+<b>Python3</b> \n
+required modueles <b>lxml</b> & <b>requests.</b> 
 
 useage:
 python crt_sh.py <example.com>
